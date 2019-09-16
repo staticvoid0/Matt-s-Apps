@@ -1,4 +1,4 @@
-// this game runs entirely by loop functions that print text to the console, built just for the hell of it.
+// this game runs entirely by loop functions that print text to the console, built just for the hell of it. Have Fun! ;)
 // Author: StaticVoid0
 
 
