@@ -1,3 +1,7 @@
+// this game runs entirely by loop functions that print text to the console, built just for the hell of it.
+// Author: StaticVoid0
+
+
 #include <iostream>
 #include <conio.h>
 #include "main.h"
